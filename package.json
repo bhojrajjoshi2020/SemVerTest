@@ -1,6 +1,6 @@
 {
   "name": "sample-code-node",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Sample code for nodejs sdk",
   "main": "constants.js",
   "dependencies": {
