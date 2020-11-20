@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AuthorizeNet/sample-code-node.git"
+    "url": "git+https://github.com/bhojrajjoshi2020/SemVerTest.git"
   },
   "keywords": [
     "AuthorizeNet",
@@ -24,7 +24,7 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AuthorizeNet/sample-code-node/issues"
+    "url": "https://github.com/bhojrajjoshi2020/SemVerTest/issues"
   },
-  "homepage": "https://github.com/AuthorizeNet/sample-code-node#readme"
+  "homepage": "https://github.com/bhojrajjoshi2020/SemVerTest#readme"
 }
