@@ -1,5 +1,5 @@
 {
-  "name": "semvertest",
+  "name": "@bhojrajjoshi2020/semvertest",
   "version": "0.0.0",
   "description": "Sample code for semvertest",
   "main": "constants.js",
@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/bhojrajjoshi2020/semvertest#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/bhojrajjoshi2020"
+    "registry": "https://npm.pkg.github.com/"
   }
 }
