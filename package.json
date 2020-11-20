@@ -1,7 +1,7 @@
 {
-  "name": "SemVerTest",
+  "name": "semvertest",
   "version": "0.0.0",
-  "description": "Sample code for SemVerTest",
+  "description": "Sample code for semvertest",
   "main": "constants.js",
   "dependencies": {
     "authorizenet": "^1.0.7",
