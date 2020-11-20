@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/bhojrajjoshi2020/SemVerTest#readme",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "registry": "https://npm.pkg.github.com/bhojrajjoshi2020"
   }
 }
