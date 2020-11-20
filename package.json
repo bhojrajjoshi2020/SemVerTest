@@ -1,7 +1,7 @@
 {
-  "name": "sample-code-node",
+  "name": "SemVerTest",
   "version": "0.0.0",
-  "description": "Sample code for nodejs sdk",
+  "description": "Sample code for SemVerTest",
   "main": "constants.js",
   "dependencies": {
     "authorizenet": "^1.0.7",
