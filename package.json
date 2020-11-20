@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/bhojrajjoshi2020/SemVerTest/issues"
   },
-  "homepage": "https://github.com/bhojrajjoshi2020/SemVerTest#readme"
+  "homepage": "https://github.com/bhojrajjoshi2020/SemVerTest#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
