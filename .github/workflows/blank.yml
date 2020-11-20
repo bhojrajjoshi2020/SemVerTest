@@ -27,8 +27,9 @@ jobs:
       - uses: brpaz/action-semantic-release@v1
         with:
           dry_run: "false"
-          install_plugins: "semantic-release-docker"
+          install_plugins: "semantic-release-npm"
           branch: main
       - run: npx semantic-release
         env:
-          GITHUB_TOKEN: 932e627c0f27a6c0ea3851153c7db6c2fdbbbdf8
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GIT_TOKEN }}
