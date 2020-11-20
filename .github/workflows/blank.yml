@@ -28,3 +28,4 @@ jobs:
         with:
           dry_run: "false"
           install_plugins: "semantic-release-docker semantic-release-npm"
+          branch: feature/test1
