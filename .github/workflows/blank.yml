@@ -29,6 +29,9 @@ jobs:
           dry_run: "false"
           install_plugins: "semantic-release-npm"
           branch: main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
+          NPM_TOKEN: ${{ secrets.GIT_TOKEN }}
       - run: npx semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
